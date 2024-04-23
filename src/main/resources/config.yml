@@ -1,0 +1,9 @@
+bot_token: ''
+minecraft_chat_channel_enabled: false
+minecraft_chat_channel_id: ''
+chat_discord_message: '`{PLAYER}` **:** {MESSAGE}'
+chat_minecaft_message: '&1[DC] &f<{PLAYER}> {MESSAGE}'
+verification_code_message: 'Your code: **{CODE}**. Use /dc-connect (your code) in Minecraft to connect accounts. Code will be outdated in 2 minutes.'
+account_connection_error_message: 'You can not do that. Your account is already linked.'
+number_of_players_activity_enable: false
+number_of_players_activity: 'Players: {NUMBER}'

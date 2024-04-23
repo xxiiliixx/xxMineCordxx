@@ -1,0 +1,4 @@
+# DON'T TOUCH ANYTHING
+# To setup your channel for connecting accounts u should use "//setup (title) (text)" on appropriate channel when bot is activated. If u want to remove this channel then use "//remove" on the correct channel
+connect_account_channel_id: ''
+connect_account_message_id:

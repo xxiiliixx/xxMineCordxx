@@ -1,0 +1,9 @@
+name: xxMineCordxx
+version: 1.0
+main: pl.xxiiliixx.MineCord.Main
+api-version: 1.20
+authors: [ xxiiliixx ]
+commands:
+  dc_connect:
+    usage: /dc_connect <verification code>
+
